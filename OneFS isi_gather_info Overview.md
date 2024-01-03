@@ -1,4 +1,4 @@
-# OneFS `isi_gather_info` Utility Overview
+# OneFS isi_gather_info Overview
 
 The OneFS `isi_gather_info` utility is a key tool for collecting and collating context and configuration to aid in the identification and resolution of bugs and issues in cluster environments. If you are createing a service request for dell they will probally ask for this. 
 
