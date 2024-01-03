@@ -4,6 +4,8 @@
 I have been receiving numerous alerts stating "Resolved: Query to isi_stats_d failed." email inbox is flooded with these notifications. It seems these alerts are linked to a specific node in the power scale. However, this node is currently operational, and services like share and others are functioning normally. 
 We had a week prior updated the powerscale / isilon to 9.5.0.3.
 
+Knowledge base event ID 400270001 
+
 ## Example of alert:
 
 | ID    | Started       | Sev | Message                                     |
