@@ -16,7 +16,7 @@ Knowledge base event ID 400270001
 ## Dell Service request notes:
 In this situation, it appears that following the OneFS upgrade to version 9.5, we're encountering a known problem where the memory allocation for the isi_stats_d service is insufficient for handling certain requests from the isi_pp_d (Partition Performance Daemon) service, leading to these events.
 
-I need to review the logs to verify if this is indeed the issue. Meanwhile, please initiate a new log collection on the cluster. 
+Dell needs to review the logs to verify if this is indeed the issue. Meanwhile, please initiate a new log collection on the cluster. 
 
 ### Asked for:
 - `isi_gather_info`
