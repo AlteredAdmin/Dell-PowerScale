@@ -51,3 +51,5 @@ Then run this command to check if the change took place:
 
 This change is not impactful to the cluster operation.
 
+## Follow up:
+YOu can check for more alerts by running `isi event list | grep SW_PP_STATS_QUERY_FAILED` this will show if their are more `SW_PP_STATS_QUERY_FAILED` alerts
